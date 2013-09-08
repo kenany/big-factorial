@@ -1,5 +1,7 @@
 # big-factorial
 
+[![Build Status](https://travis-ci.org/KenanY/big-factorial.png?branch=master)](https://travis-ci.org/KenanY/big-factorial)
+
 Like [factorial](https://github.com/wearefractal/factorial) but for big numbers.
 Inspired by
 [a blog post](http://raganwald.com/2013/03/28/trampolines-in-javascript.html) by
