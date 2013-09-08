@@ -40,9 +40,10 @@ $ npm install big-factorial
 ## API
 
 ``` javascript
-var factorial = require('big-factorial');
+var bigFactorial = require('big-factorial');
 ```
 
 ### bigFactorial(value)
 
-Returns the factorial of `value`.
+Returns the factorial of `value` as a _bigInt_, where `value` is either a
+_Number_ or a _String_.
