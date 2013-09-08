@@ -39,7 +39,7 @@ $ npm install big-factorial
 
 ## API
 
-```
+``` javascript
 var factorial = require('big-factorial');
 ```
 
