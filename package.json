@@ -1,0 +1,33 @@
+{
+  "name": "big-factorial",
+  "version": "1.0.0",
+  "description": "Calculate the factorial of big numbers.",
+  "keywords": [
+    "math"
+  ],
+  "homepage": "https://github.com/KenanY/big-factorial",
+  "bugs": {
+    "url": "https://github.com/KenanY/big-factorial/issues"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Kenan Yildirim",
+    "email": "kenan@kenany.me",
+    "web": "http://kenany.me/"
+  },
+  "main": "./index.js",
+  "directories": {
+    "test": "./test"
+  },
+  "repository": "git://github.com/KenanY/big-factorial.git",
+  "scripts": {
+    "test": "tape test/index.js"
+  },
+  "dependencies": {
+    "big-integer": "~1.1.5",
+    "bilby": "~0.0.2"
+  },
+  "devDependencies": {
+    "tape": "~1.0.4"
+  }
+}
