@@ -1,6 +1,6 @@
 # big-factorial
 
-[![Build Status](https://travis-ci.org/KenanY/big-factorial.png?branch=master)](https://travis-ci.org/KenanY/big-factorial)
+[![Build Status](https://travis-ci.org/KenanY/big-factorial.svg?branch=master)](https://travis-ci.org/KenanY/big-factorial)
 [![Dependency Status](https://gemnasium.com/KenanY/big-factorial.png)](https://gemnasium.com/KenanY/big-factorial)
 
 Like [factorial](https://github.com/wearefractal/factorial) but for big numbers.
