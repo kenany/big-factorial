@@ -19,7 +19,7 @@
   "directories": {
     "test": "./test"
   },
-  "repository": "git://github.com/KenanY/big-factorial.git",
+  "repository": "KenanY/big-factorial",
   "scripts": {
     "test": "tape test/index.js"
   },
