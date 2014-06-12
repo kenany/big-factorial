@@ -10,11 +10,7 @@
     "url": "https://github.com/KenanY/big-factorial/issues"
   },
   "license": "MIT",
-  "author": {
-    "name": "Kenan Yildirim",
-    "email": "kenan@kenany.me",
-    "web": "http://kenany.me/"
-  },
+  "author": "Kenan Yildirim <kenan@kenany.me> (http://kenany.me/)",
   "main": "./index.js",
   "directories": {
     "test": "./test"
