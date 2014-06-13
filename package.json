@@ -5,10 +5,6 @@
   "keywords": [
     "math"
   ],
-  "homepage": "https://github.com/KenanY/big-factorial",
-  "bugs": {
-    "url": "https://github.com/KenanY/big-factorial/issues"
-  },
   "license": "MIT",
   "author": "Kenan Yildirim <kenan@kenany.me> (http://kenany.me/)",
   "main": "./index.js",
