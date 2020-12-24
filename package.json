@@ -13,6 +13,7 @@
   },
   "repository": "KenanY/big-factorial",
   "scripts": {
+    "release": "semantic-release",
     "test": "tape test/index.js"
   },
   "dependencies": {
@@ -20,6 +21,10 @@
     "bilby": "~0.0.2"
   },
   "devDependencies": {
+    "@semantic-release/changelog": "^5.0.1",
+    "@semantic-release/git": "^9.0.0",
+    "conventional-changelog-conventionalcommits": "^4.5.0",
+    "semantic-release": "^17.3.0",
     "tape": "^2.13.3"
   }
 }
