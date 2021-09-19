@@ -1,3 +1,10 @@
+### [1.0.4](https://github.com/KenanY/big-factorial/compare/1.0.3...1.0.4) (2021-09-19)
+
+
+### Bug Fixes
+
+* **deps:** big-integer@1.6.49 ([d8d1187](https://github.com/KenanY/big-factorial/commit/d8d1187e89a24f25fd8a7a5eb5c417674d86594d))
+
 ### [1.0.3](https://github.com/KenanY/big-factorial/compare/1.0.2...1.0.3) (2021-03-30)
 
 
