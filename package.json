@@ -17,7 +17,7 @@
     "test": "tape test/index.js"
   },
   "dependencies": {
-    "big-integer": "~1.6.50",
+    "big-integer": "~1.6.51",
     "bilby": "~0.0.2"
   },
   "devDependencies": {
