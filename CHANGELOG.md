@@ -1,3 +1,14 @@
+## [2.0.0](https://github.com/KenanY/big-factorial/compare/1.0.6...2.0.0) (2022-12-22)
+
+
+### ⚠ BREAKING CHANGES
+
+* Node.js v12 is no longer supported.
+
+### Features
+
+* drop Node.js v12 support ([337c31d](https://github.com/KenanY/big-factorial/commit/337c31db5b472a901193b9867ee062074bbdaaae))
+
 ### [1.0.6](https://github.com/KenanY/big-factorial/compare/1.0.5...1.0.6) (2021-11-11)
 
 
