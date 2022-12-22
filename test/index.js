@@ -1,7 +1,7 @@
-var factorial = require('../');
-var test = require('tape');
+const factorial = require('../');
+const test = require('tape');
 
-test('big-factorial', function(t) {
+test('big-factorial', (t) => {
   t.plan(3);
 
   t.equal(factorial(0).toString(), '1');

@@ -6,12 +6,15 @@
     "math"
   ],
   "license": "MIT",
-  "author": "Kenan Yildirim <kenan@kenany.me> (http://kenany.me/)",
+  "author": "Kenan Yildirim <kenan@kenany.me> (https://kenany.me/)",
   "main": "./index.js",
   "directories": {
     "test": "./test"
   },
   "repository": "KenanY/big-factorial",
+  "engines": {
+    "node": "14 || 16 || >=18"
+  },
   "scripts": {
     "release": "semantic-release",
     "test": "tape test/index.js"
@@ -21,7 +24,6 @@
     "bilby": "~0.0.2"
   },
   "devDependencies": {
-    "@kenan/renovate-config": "^1.5.1",
     "@semantic-release/changelog": "^6.0.1",
     "@semantic-release/git": "^10.0.1",
     "conventional-changelog-conventionalcommits": "^5.0.0",
