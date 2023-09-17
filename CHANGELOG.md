@@ -1,3 +1,14 @@
+## [3.0.0](https://github.com/kenany/big-factorial/compare/2.0.0...3.0.0) (2023-09-17)
+
+
+### ⚠ BREAKING CHANGES
+
+* Node.js v14 and v16 are no longer supported.
+
+### Features
+
+* drop Node.js v14 and v16 ([5065cbe](https://github.com/kenany/big-factorial/commit/5065cbefbb3ad13d3969c1f7d56339a442fc0437))
+
 ## [2.0.0](https://github.com/KenanY/big-factorial/compare/1.0.6...2.0.0) (2022-12-22)
 
 
