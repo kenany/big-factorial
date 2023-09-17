@@ -11,9 +11,9 @@
   "directories": {
     "test": "./test"
   },
-  "repository": "KenanY/big-factorial",
+  "repository": "github:kenany/big-factorial",
   "engines": {
-    "node": "14 || 16 || >=18"
+    "node": "18 || >=20"
   },
   "scripts": {
     "release": "semantic-release",
