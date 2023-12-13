@@ -1,6 +1,6 @@
 {
   "name": "big-factorial",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Calculate the factorial of big numbers.",
   "keywords": [
     "math"
