@@ -28,6 +28,6 @@
     "@semantic-release/git": "11.0.1",
     "conventional-changelog-conventionalcommits": "10.2.1",
     "semantic-release": "26.0.1",
-    "tape": "5.10.3"
+    "tape": "5.11.0"
   }
 }
